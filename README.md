@@ -42,4 +42,4 @@ This project analyzes Uber's key performance metrics using Microsoft Fabric and 
 ![test](Drivers_Pbi_ss.png)
 
 ## Customer engagement
-![test](customers_Pbi_ss.png)
+![test](Customers_pbi_ss.png)
