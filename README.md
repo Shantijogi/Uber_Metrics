@@ -34,3 +34,12 @@ This project analyzes Uber's key performance metrics using Microsoft Fabric and 
 
 ## Uber Revenue Analysis
 ![test](Revenue_Pbi_ss.png)
+
+## Rides statistics
+![test](Rides_Pbi_ss.png)
+
+## Drivers performance
+![test](Drivers_Pbi_ss.png)
+
+## Customer engagement
+![test](customers_Pbi_ss.png)
